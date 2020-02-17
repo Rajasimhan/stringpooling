@@ -1,10 +1,10 @@
-package com.rv.memory.management.memman;
+package com.rv.memory.management.string.pooling;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MemmanApplicationTests {
+class StringPoolingApplicationTests {
 
     @Test
     void contextLoads() {
